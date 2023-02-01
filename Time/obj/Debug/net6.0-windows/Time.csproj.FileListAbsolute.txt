@@ -1,0 +1,17 @@
+C:\Users\61434\source\repos\Time\Time\obj\Debug\net6.0-windows\Time.csproj.AssemblyReference.cache
+C:\Users\61434\source\repos\Time\Time\obj\Debug\net6.0-windows\Time.Form1.resources
+C:\Users\61434\source\repos\Time\Time\obj\Debug\net6.0-windows\Time.csproj.GenerateResource.cache
+C:\Users\61434\source\repos\Time\Time\obj\Debug\net6.0-windows\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61434\source\repos\Time\Time\obj\Debug\net6.0-windows\Time.AssemblyInfoInputs.cache
+C:\Users\61434\source\repos\Time\Time\obj\Debug\net6.0-windows\Time.AssemblyInfo.cs
+C:\Users\61434\source\repos\Time\Time\obj\Debug\net6.0-windows\Time.csproj.CoreCompileInputs.cache
+C:\Users\61434\source\repos\Time\Time\bin\Debug\net6.0-windows\Time.exe
+C:\Users\61434\source\repos\Time\Time\bin\Debug\net6.0-windows\Time.deps.json
+C:\Users\61434\source\repos\Time\Time\bin\Debug\net6.0-windows\Time.runtimeconfig.json
+C:\Users\61434\source\repos\Time\Time\bin\Debug\net6.0-windows\Time.dll
+C:\Users\61434\source\repos\Time\Time\bin\Debug\net6.0-windows\Time.pdb
+C:\Users\61434\source\repos\Time\Time\obj\Debug\net6.0-windows\Time.dll
+C:\Users\61434\source\repos\Time\Time\obj\Debug\net6.0-windows\refint\Time.dll
+C:\Users\61434\source\repos\Time\Time\obj\Debug\net6.0-windows\Time.pdb
+C:\Users\61434\source\repos\Time\Time\obj\Debug\net6.0-windows\Time.genruntimeconfig.cache
+C:\Users\61434\source\repos\Time\Time\obj\Debug\net6.0-windows\ref\Time.dll
